@@ -1,2 +1,1 @@
-# wavetank
 Adafruit Wave Tank
